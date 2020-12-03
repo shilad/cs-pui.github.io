@@ -95,7 +95,7 @@ _[Excerpt] Lawrence University invites applications for a full-time tenure track
 - [Link to application](https://lawrence.peopleadmin.com/postings/420)
 
 ## <a name="mac">Macalester College (Minneapolis / St. Paul)</a>
-_[Excerpt] Macalester College invites applications for two one year visiting positions in Computer Science to begin Fall 2021. Candidates will have the option to teach four courses or five courses over the course of the year. Preferred candidates will have completed a Ph.D. in Computer Science or a related field or be pursuing a Ph.D and have completed their coursework. Candidates will work with existing faculty to gain teaching experience with courses at the introductory, intermediate and, potentially, advanced undergraduate level. _
+_[Excerpt] Macalester College invites applications for two one year visiting positions in Computer Science to begin Fall 2021. Candidates will have the option to teach four courses or five courses over the course of the year. Preferred candidates will have completed a Ph.D. in Computer Science or a related field or be pursuing a Ph.D and have completed their coursework. Candidates will work with existing faculty to gain teaching experience with courses at the introductory, intermediate and, potentially, advanced undergraduate level._
 - Evaluation of applications will begin **immediately** and continue until the position is filled. 
 - [Link to application](https://www.macalester.edu/mscs/computer-science-positions-2021-2022/)
 
